@@ -13,10 +13,10 @@
 
 /*Footer*/
 footer{
-    background: grey
+    background: grey;
 }
 footer a:hover {
-    background: white:
+    background: white;
     color: red
 }
 .btn{
@@ -26,20 +26,20 @@ footer a:hover {
 }
 body {
     background-color: black;
-    color: white
+    color: white;
 }
 *{
-    color: white
+    color: white;
 }
 h1 {
-    color: silver
+    color: silver;
 }
 h2{
-    color:red
+    color:red;
 }
 a {
-    color:red
+    color:red;
 }
 section{
-    color: white
+    color: white;
 }
