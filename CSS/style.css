@@ -1,0 +1,45 @@
+/*COLOR PALETTE */
+
+/*GLOBAL STYLES*/
+/*Resume*/
+
+/*Profile*/
+
+/*Projects*/
+
+/*Work Experience*/
+
+/*Education*/
+
+/*Footer*/
+footer{
+    background: grey
+}
+footer a:hover {
+    background: white:
+    color: red
+}
+.btn{
+    background: grey;
+    color: white;
+    text-decoration: none;
+}
+body {
+    background-color: black;
+    color: white
+}
+*{
+    color: white
+}
+h1 {
+    color: silver
+}
+h2{
+    color:red
+}
+a {
+    color:red
+}
+section{
+    color: white
+}
