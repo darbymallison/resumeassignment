@@ -17,7 +17,7 @@ footer{
 }
 footer a:hover {
     background: white;
-    color: red
+    color: red;
 }
 .btn{
     background: grey;
@@ -35,10 +35,10 @@ h1 {
     color: silver;
 }
 h2{
-    color:red;
+    color: red;
 }
 a {
-    color:red;
+    color: red;
 }
 section{
     color: white;
